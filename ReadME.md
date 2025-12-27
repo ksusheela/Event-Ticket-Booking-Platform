@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project is a backend-focused Event Ticket Booking Platform, similar to a lite version of BookMyShow.
+This project is a backend-focused Event Ticket Booking Platform, 
 The main objective of this project is to design and implement correct backend business logic, secure authentication, and reliable seat booking while maintaining data consistency.
 
 The system allows users to browse events and book seats, while admins can manage events and view bookings.
